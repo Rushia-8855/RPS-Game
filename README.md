@@ -1,6 +1,7 @@
 # RPS-Game
 Rock Paper Scissors Game
 A simple interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. This project allows users to play the classic game against the computer, with a sleek and responsive design. The game logic is implemented in JavaScript, and the user interface is styled using CSS for a smooth and engaging experience
+<br>
 Features:
 	•	User can choose between Rock, Paper, or Scissors.
 	•	Computer randomly selects one of the options.
